@@ -1,3 +1,0 @@
-#!/usr/bin/bash
-chmod +x *.html
-git add .
